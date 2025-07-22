@@ -16,7 +16,7 @@ connectDB();
 
 // List of allowed frontend origins
 const allowedOrigins = [
-  "http://localhost:5173"
+  "https://expense-tracker-1-wbcq.onrender.com"
 ];
 
 // CORS Configuration
